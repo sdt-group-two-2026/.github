@@ -1,17 +1,19 @@
-# SOFTWARE DEVELOPMENT TECHNOLOGY - GROUP 2 - 2024
+# SOFTWARE DEVELOPMENT TECHNOLOGY - GROUP 2 - 2026
 
 |  STUDENT ID  |            NAME            |      TEAM     |
 |--------------|----------------------------|---------------|
-| 202424080114 | Godfred Doe                | PM, Backend   |
-| 202424080124 | Bilal Khan                 | Mobile        |
-| 202424010105 | Soufiane Jdaba             | Backend       |
-| 202424080109 | WISSAL BENNANE             | Frontend      |
-| 202424080106 | MIAKHIL BELAL              | Documentation |
-| 202414080113 | Amaar Aashir               | Documentation |
-| 202424080128 | CHIRWA CHAWANANGWA MABUCHI | Frontend      |
-| 202414010103 | Yves Fidèle Aikoun         | Frontend      |
-| 202424080210 | Rubaba Fredrick Petro      | Documentation |
-| 202324090112 | TELILA BETEKET GIRMA       |               |
+| 202614080112 | Godfred Doe                | PM, Backend   |
+| 202614090111 | Urama Gilbert Chidiebere   | Pending       |
+| 202624080106 | Mouhssini Fatim-Zahra      | Documentation |
+| 202624080205 | Fatorma Hawa               | Pending       |
+| 202624080104 | Techathanwisit Sasipa      | Documentation |
+| 202524070101 | Abdi Ahnaf Aiman           | Pending       |
+| 202524010111 | Khan Hameedullah           | Pending       |
+| 202524080127 | Amin Omer                  | Pending       |
+| 202624080113 | I Putu Wisnu Jaya Wardana  | Frontend      |
+| 202624140109 | Pandu Ahmed Khatib         | Frontend      |
+| 202524020101 | Azad Md Abul Kalam         | Pending       |
+| 202624080202 | Orah Harris Onyekachi      | Backend       |
 
 ## PROJECT 💻
 **Hospital Sterilization Information Management System**
@@ -20,13 +22,13 @@
 - Programming Languages
   - Python
   - Javascript
-  - Dart
+  - Dart (Mobile Team will decide)
 
 
 - Frameworks
   - Django
   - Vue
-  - Flutter
+  - Flutter (Mobile Team will decide)
  
 
 
@@ -37,13 +39,13 @@
 ## Meeting Schedule
 **Number of Times:** 2/week
 
-**Meeting Mode:** In-Person
+**Meeting Mode:** Hybrid
 
 **Meeting Days**: Monday & Thursday
 
-**Meeting Time:** 1:30PM
+**Meeting Time:** 1:10PM
 
-**Meeting Place:** Liren Building A101
+**Meeting Place:** Liren Building A101 / Google Meet
 
 
 ## Project Related Documents (Must Read)
