@@ -8,7 +8,7 @@
 | 202624080205 | Fatorma Hawa               | Pending       |
 | 202624080104 | Techathanwisit Sasipa      | Documentation |
 | 202524070101 | Abdi Ahnaf Aiman           | Pending       |
-| 202524010111 | Khan Hameedullah           | Pending       |
+| 202524010111 | Khan Hameedullah           | Probably Dropped the Course       |
 | 202524080127 | Amin Omer                  | Pending       |
 | 202624080113 | I Putu Wisnu Jaya Wardana  | Frontend      |
 | 202624140109 | Pandu Ahmed Khatib         | Frontend      |
