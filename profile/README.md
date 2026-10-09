@@ -33,7 +33,7 @@
 
 ## Estimated Delivery Deadline
 - Duration: 4 Weeks
-- Deadline: November 1, 2024
+- Deadline: 30 October, 2026
 
 ## Meeting Schedule
 **Number of Times:** 2/week
