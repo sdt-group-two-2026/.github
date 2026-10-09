@@ -7,12 +7,11 @@
 | 202624080106 | Mouhssini Fatim-Zahra      | Documentation |
 | 202624080205 | Fatorma Hawa               | Pending       |
 | 202624080104 | Techathanwisit Sasipa      | Documentation |
-| 202524070101 | Abdi Ahnaf Aiman           | Pending       |
-| 202524010111 | Khan Hameedullah           | Probably Dropped the Course       |
-| 202524080127 | Amin Omer                  | Pending       |
+| 202524070101 | Abdi Ahnaf Aiman           | Backend       |
+| 202524080127 | Amin Omer                  | Documentation       |
 | 202624080113 | I Putu Wisnu Jaya Wardana  | Frontend      |
 | 202624140109 | Pandu Ahmed Khatib         | Frontend      |
-| 202524020101 | Azad Md Abul Kalam         | Pending       |
+| 202524020101 | Azad Md Abul Kalam         | Documentation     |
 | 202624080202 | Orah Harris Onyekachi      | Backend       |
 
 ## PROJECT 💻
